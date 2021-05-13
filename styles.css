@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+  border: 2px solid lightgrey;
+}
+
+#modal-create {
+  visibility: hidden;
+  text-align:center;
+  height: 0%;
+ 
+}
